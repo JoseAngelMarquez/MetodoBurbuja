@@ -1,9 +1,9 @@
 /**************************************
  * Autor: Màrquez Espina Josè Àngel   *
  * Fecha Creación: 19/03/23           *
- * Fecha Actualización:	20/03/23	  *
+ * Fecha Actualización:	20/03/23      *
  * Descripción: Mètodo burbuja sin    *
- * 				interfaz	          *			   
+ * 		interfaz	      *			   
  **************************************/
 package Burbuja;
 
@@ -38,5 +38,5 @@ public class Burbuja {
             System.out.print(arr[i] + "-");
         }
         
-	}
+   	}
 }
